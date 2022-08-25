@@ -85,11 +85,7 @@ Conclusion
 
 If you have a passion for helping people and want to make a difference in the world, becoming an injury lawyer may be the perfect career choice for you. It is important to keep in mind that becoming an injury lawyer takes hard work, dedication, and determination. However, if you are willing to put in the work, becoming an injury lawyer can be an incredibly rewarding experience. If you are interested in pursuing a career in law, we encourage you to research different programs and schools to find the one that best fits your needs.
 
-## Links
-
-- []()
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
+#]
 
 ### Footnotes
 
